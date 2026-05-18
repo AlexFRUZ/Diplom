@@ -58,8 +58,8 @@
 ### 1. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/AlexFRUZ/Diplom.git
-cd Diplom
+git clone https://github.com/AlexFRUZ/SCGVAC.git
+cd SCGVAC
 ```
 
 ### 2. Встановити залежності
