@@ -153,3 +153,4 @@ python3 evaluate.py [OPTIONS]
 | `--weights PATH` | Явні ваги (інакше автодетект) |
 | `--batch-size N` | Розмір батчу (за замовч. 32) |
 | `--out-dir PATH` | Куди класти графіки/JSON |
+
