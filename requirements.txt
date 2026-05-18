@@ -1,0 +1,13 @@
+pyqt6
+opencv-python
+numpy
+torch
+torchvision
+transformers>=4.30.0
+pillow
+matplotlib
+seaborn
+scikit-learn
+pandas
+tqdm
+kagglehub

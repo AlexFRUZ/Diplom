@@ -1,0 +1,32 @@
+# Натреновані ваги (>100 MB кожна — GitHub не приймає без LFS)
+*.pt
+*.pth
+
+# Підготовлені дані / згенеровані звіти
+data/
+runs/
+
+# Згенеровані метрики/графіки оцінювання
+confusion_matrix_*.png
+roc_curve_*.png
+per_class_metrics_*.png
+metrics_*.json
+summary.json
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Kaggle credentials (на всяк)
+kaggle.json
+.kaggle/
